@@ -1,0 +1,1827 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '2CC3C84BAC06537F29E75E293763074C',
+    participant: undefined
+  },
+  messageTimestamp: 1733864775,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c78f2843-eca0-42db-b125-707894b2a4b0',
+  keyword: 'key_9651a635-b12f-4416-8e7c-272212b25c75',
+  answer: 'Hola, gracias por escribir a *Alerta Ciclovía*\n' +
+    '¿En qué distrito se encuentra la problemática?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79143a21f3db093505cfdda53092cb7f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '680723274FDAF16FFA3D1C71337C0848',
+    participant: undefined
+  },
+  messageTimestamp: 1733864779,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'San Luis',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'San Luis',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_42ad20fe-2a6d-49a5-8646-0180ccb58387',
+  keyword: 'key_a3695c13-d6ba-4a61-a3b7-43e01fa83e7f',
+  answer: 'Escribe la ubicación o nombre de la ciclovía',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5ae32e7272f83249b55dcede837bee37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '7AD763A1BD3E6353D9238262917B8564',
+    participant: undefined
+  },
+  messageTimestamp: 1733864783,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'Canadá',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Canadá',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bab10448-22ce-4989-bb8b-a6ba2ade99d9',
+  keyword: 'key_a0efe672-9771-4fff-8e42-13e261612ab8',
+  answer: '*Escribe el número relacionado a la problemática:*\n' +
+    '1. Mantenimiento de ciclovía\n' +
+    '2. Ausencia de fiscalización\n' +
+    '3. Limpieza de ciclovía\n' +
+    '4. Implementación de nuevas ciclovías\n' +
+    '5. Ausencia de actividades',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '17bb5d3093784efbb493d922de54387c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '554891143222@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D61FA8EDBC3A43C98A',
+    participant: undefined
+  },
+  messageTimestamp: 1733864786,
+  pushName: 'Lucas Lima',
+  broadcast: false,
+  message: Message {
+    conversation: 'Ing, remití un correo proponiendo nuevas fechas para la semana entrante. Si puede apoyar internamente en lograrmos esta nueva sesión, le agradezco muchísimo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  verifiedBizName: 'Lucas Lima',
+  body: 'Ing, remití un correo proponiendo nuevas fechas para la semana entrante. Si puede apoyar internamente en lograrmos esta nueva sesión, le agradezco muchísimo',
+  from: '554891143222'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '9FF9F3BFDA64D048B97FB5A04C69C7DA',
+    participant: undefined
+  },
+  messageTimestamp: 1733864787,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c78f2843-eca0-42db-b125-707894b2a4b0',
+  keyword: 'key_9651a635-b12f-4416-8e7c-272212b25c75',
+  answer: 'Hola, gracias por escribir a *Alerta Ciclovía*\n' +
+    '¿En qué distrito se encuentra la problemática?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79143a21f3db093505cfdda53092cb7f'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_88308310-d819-408a-9028-dc691a1b7a24',
+  keyword: 'key_504a8cf3-ec52-4943-a7d2-4d4fca886737',
+  answer: '*Mantenimiento de ciclovías*\n' +
+    'a. Ausencia de elementos de segregación\n' +
+    'b. Tipo de daños\n' +
+    'c. Falta de señalización\n' +
+    'd. Falta de iluminacíon',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '384a3b77f5e2ec3f5b4d47efbea79cfc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: 'EE74B00DFEE7EF9DE76F635C7698ED6A',
+    participant: undefined
+  },
+  messageTimestamp: 1733864789,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'B',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'B',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0ce15022-aa0d-46c2-8443-db589b0166c6',
+  keyword: 'key_727b936c-4650-4768-a27f-847ad0f3a3cf',
+  answer: '*Tipo de daños*\nb1. Baches\nb2. Huecos',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '795525ddd762d27a04a6639553e21d6b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '5D43EB7045CA830AA428A4C0361F4CBF',
+    participant: undefined
+  },
+  messageTimestamp: 1733864794,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'B1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'B1',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3e315c2c-7228-479a-8aa0-37cb84d00ad9',
+  keyword: 'key_c8a1ce31-b487-44c2-b38f-fa6c562ddc9a',
+  answer: '¿En qué tramo / cuadra de la ciclovía se localiza?\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f012ee5c3ce2883059be487c26a6b395'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '65994BBE8F6F91A90FF473A230DDEF9A',
+    participant: undefined
+  },
+  messageTimestamp: 1733864800,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuadra 20',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cuadra 20',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f063327-508f-445f-8bb7-191db586a20d',
+  keyword: 'key_7beb3767-01c5-4a77-a6ce-9bd05c630c2a',
+  answer: 'Ayúdanos a mejorar las ciclovías, adjunta UNA evidencia fotográfica',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '78e2f4a2ac55ca1770d3d30fc8c3f03c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: 'CD644A333B9539D429EA750955DC7DA8',
+    participant: undefined
+  },
+  messageTimestamp: 1733864808,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/17607436_554195060758422_2392847272286304061_n.enc?ccb=11-4&oh=01_Q5AaIF7gRfp1l1xLGfGDfBEUSlJUsYHQa0yLrsVEw9n1B5KZ&oe=6780029C&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1560,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/17607436_554195060758422_2392847272286304061_n.enc?ccb=11-4&oh=01_Q5AaIF7gRfp1l1xLGfGDfBEUSlJUsYHQa0yLrsVEw9n1B5KZ&oe=6780029C&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__61634254-8900-46c6-9984-6dbd16322deb',
+  from: '51937396426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '2D80857DAE16B7D062DF8012A8C94A38',
+    participant: undefined
+  },
+  messageTimestamp: 1733864872,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/13149426_446338978517018_5378125246560442787_n.enc?ccb=11-4&oh=01_Q5AaIHfC6kqPPMjTKlA_RBzvpyqtl6MXpoeZLyYPOYLUhrgv&oe=678033DA&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 900,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/13149426_446338978517018_5378125246560442787_n.enc?ccb=11-4&oh=01_Q5AaIHfC6kqPPMjTKlA_RBzvpyqtl6MXpoeZLyYPOYLUhrgv&oe=678033DA&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__cf648e6e-37bf-4eae-82f8-f54007341f26',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bb05a7d3-8c49-4d01-a565-27443412afce',
+  keyword: 'key_b69ed4d0-91fe-4c8f-b95a-571216ad013b',
+  answer: '¡Gracias por avisarnos!\n' +
+    'Estamos anotando todo lo que nos indicas, pero también queremos saber de ti para trabajar en conjunto.\n' +
+    'Te invitamos a llenar el siguiente formulario.\n' +
+    '*¿Perteneces a alguna organización ciclista?*\n' +
+    '*Sí*  / *No*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ebd0d6de278cb56fd993fe155a252630'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '554891143222@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB072BD78255C31CDA399',
+    participant: undefined
+  },
+  messageTimestamp: 1733864873,
+  pushName: 'Lucas Lima',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '🤝',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '554891143222'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '554891143222@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB055D46652152BC4C5D8',
+    participant: undefined
+  },
+  messageTimestamp: 1733864877,
+  pushName: 'Lucas Lima',
+  broadcast: false,
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    reactionMessage: ReactionMessage {
+      key: [MessageKey],
+      text: '😂',
+      senderTimestampMs: [Long]
+    }
+  },
+  body: '',
+  from: '554891143222'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: 'F0562BB024CF9BC8571B548418C6AEE0',
+    participant: undefined
+  },
+  messageTimestamp: 1733864881,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'Sí',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Sí',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_60f996a5-b010-43c8-811a-2615e36fcbd1',
+  keyword: 'key_5f6e8e2a-5ae9-40ee-999c-f919f114d5fc',
+  answer: 'Link de formulario ciclista\n' +
+    '#GuardiánDeLaVía.\n' +
+    '¡Juntos recuperaremos las ciclovías de Lima!\n' +
+    'Si tienes otra problemática, ¡Vuelve a decirnos *hola*!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ddcc7e1e0a99e731c8a74a047507ae20'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '9BF69E55635ECAEE7E7DAA3EEA39C714',
+    participant: undefined
+  },
+  messageTimestamp: 1733864886,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c78f2843-eca0-42db-b125-707894b2a4b0',
+  keyword: 'key_9651a635-b12f-4416-8e7c-272212b25c75',
+  answer: 'Hola, gracias por escribir a *Alerta Ciclovía*\n' +
+    '¿En qué distrito se encuentra la problemática?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79143a21f3db093505cfdda53092cb7f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '5ED2422905BC6933560365C135BDC09E',
+    participant: undefined
+  },
+  messageTimestamp: 1733864891,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'Sanfess',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Sanfess',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_42ad20fe-2a6d-49a5-8646-0180ccb58387',
+  keyword: 'key_a3695c13-d6ba-4a61-a3b7-43e01fa83e7f',
+  answer: 'Escribe la ubicación o nombre de la ciclovía',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5ae32e7272f83249b55dcede837bee37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '14D5A5C90D54B51DA20E50E965AEC509',
+    participant: undefined
+  },
+  messageTimestamp: 1733864894,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'Bdkskaaaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Bdkskaaaa',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bab10448-22ce-4989-bb8b-a6ba2ade99d9',
+  keyword: 'key_a0efe672-9771-4fff-8e42-13e261612ab8',
+  answer: '*Escribe el número relacionado a la problemática:*\n' +
+    '1. Mantenimiento de ciclovía\n' +
+    '2. Ausencia de fiscalización\n' +
+    '3. Limpieza de ciclovía\n' +
+    '4. Implementación de nuevas ciclovías\n' +
+    '5. Ausencia de actividades',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '17bb5d3093784efbb493d922de54387c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '447656A50BCF265797C20DE7475AD0A0',
+    participant: undefined
+  },
+  messageTimestamp: 1733864899,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '2',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_78d57346-fa49-4a07-9059-fe70a04ef835',
+  keyword: 'key_4415daf5-81bf-4b33-8a26-ecc96c48403b',
+  answer: '*Ausencia de fiscalización*\n' +
+    'e. Ambulantes\n' +
+    'f. Peatones imprudentes\n' +
+    'g. Mototaxis invadiendo vía\n' +
+    'h. Autos invadiendo vía\n' +
+    'i. Vehículos estacionados',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '840a189c1e88649638135418037f0986'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '7D0F2646024CA77F86964CD1F7EA4579',
+    participant: undefined
+  },
+  messageTimestamp: 1733864904,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'E',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'E',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac977e7d-65a6-4ac3-99e5-3cdebdc04590',
+  keyword: 'key_738ad003-ae17-497e-8e74-68fafdc72242',
+  answer: '¿En qué tramo / cuadra de la ciclovía se localiza?\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cea91ddf33f0f175a0728b625c1e2040'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '96D2AE59268577CD3053CBA5B667BB32',
+    participant: undefined
+  },
+  messageTimestamp: 1733864909,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuadra 5',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cuadra 5',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f063327-508f-445f-8bb7-191db586a20d',
+  keyword: 'key_7beb3767-01c5-4a77-a6ce-9bd05c630c2a',
+  answer: 'Ayúdanos a mejorar las ciclovías, adjunta UNA evidencia fotográfica',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '78e2f4a2ac55ca1770d3d30fc8c3f03c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: 'D3C4F37C5242308CBF63D47CE20DA352',
+    participant: undefined
+  },
+  messageTimestamp: 1733864917,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/17607436_554195060758422_2392847272286304061_n.enc?ccb=11-4&oh=01_Q5AaIF7gRfp1l1xLGfGDfBEUSlJUsYHQa0yLrsVEw9n1B5KZ&oe=6780029C&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1560,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/17607436_554195060758422_2392847272286304061_n.enc?ccb=11-4&oh=01_Q5AaIF7gRfp1l1xLGfGDfBEUSlJUsYHQa0yLrsVEw9n1B5KZ&oe=6780029C&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__f633a2c9-bd37-4a21-9c99-88a9b0ab4f3f',
+  from: '51937396426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: 'C0C074D884C31A9B3FA01FDD2E42474F',
+    participant: undefined
+  },
+  messageTimestamp: 1733864924,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/17607436_554195060758422_2392847272286304061_n.enc?ccb=11-4&oh=01_Q5AaIF7gRfp1l1xLGfGDfBEUSlJUsYHQa0yLrsVEw9n1B5KZ&oe=6780029C&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1560,
+      width: 720,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/17607436_554195060758422_2392847272286304061_n.enc?ccb=11-4&oh=01_Q5AaIF7gRfp1l1xLGfGDfBEUSlJUsYHQa0yLrsVEw9n1B5KZ&oe=6780029C&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__bb01077f-1735-49c1-a4b4-bbde38a03d66',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bb05a7d3-8c49-4d01-a565-27443412afce',
+  keyword: 'key_b69ed4d0-91fe-4c8f-b95a-571216ad013b',
+  answer: '¡Gracias por avisarnos!\n' +
+    'Estamos anotando todo lo que nos indicas, pero también queremos saber de ti para trabajar en conjunto.\n' +
+    'Te invitamos a llenar el siguiente formulario.\n' +
+    '*¿Perteneces a alguna organización ciclista?*\n' +
+    '*Sí*  / *No*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ebd0d6de278cb56fd993fe155a252630'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '1C9E687313589C3A365E3C590BD1ED14',
+    participant: undefined
+  },
+  messageTimestamp: 1733864942,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a83da3c0-2fc6-4c35-8d68-a7f48cae3a33',
+  keyword: 'key_a4e493f8-33fc-48f0-a86d-c916d62a0d42',
+  answer: 'Link de formulario independiente\n' +
+    '#GuardiánDeLaVía.\n' +
+    '¡Juntos recuperaremos las ciclovías de Lima!\n' +
+    'Si tienes otra problemática, ¡Vuelve a decirnos *hola*!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f4412ccaa1bbb78ce2326b5d134c6c14'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: 'E78E88851329037488BA51320B06C5EC',
+    participant: undefined
+  },
+  messageTimestamp: 1733864949,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Si',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c78f2843-eca0-42db-b125-707894b2a4b0',
+  keyword: 'key_9651a635-b12f-4416-8e7c-272212b25c75',
+  answer: 'Hola, gracias por escribir a *Alerta Ciclovía*\n' +
+    '¿En qué distrito se encuentra la problemática?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79143a21f3db093505cfdda53092cb7f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: 'B4B82E3A1119429E5288B8B49541A1E4',
+    participant: undefined
+  },
+  messageTimestamp: 1733864982,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'Saaa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  status: 4,
+  body: 'Saaa',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_42ad20fe-2a6d-49a5-8646-0180ccb58387',
+  keyword: 'key_a3695c13-d6ba-4a61-a3b7-43e01fa83e7f',
+  answer: 'Escribe la ubicación o nombre de la ciclovía',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5ae32e7272f83249b55dcede837bee37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: 'B36D0F50C6A0CE054F828C86A4568509',
+    participant: undefined
+  },
+  messageTimestamp: 1733864987,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'A',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'A',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bab10448-22ce-4989-bb8b-a6ba2ade99d9',
+  keyword: 'key_a0efe672-9771-4fff-8e42-13e261612ab8',
+  answer: '*Escribe el número relacionado a la problemática:*\n' +
+    '1. Mantenimiento de ciclovía\n' +
+    '2. Ausencia de fiscalización\n' +
+    '3. Limpieza de ciclovía\n' +
+    '4. Implementación de nuevas ciclovías\n' +
+    '5. Ausencia de actividades',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '17bb5d3093784efbb493d922de54387c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: 'C9D5BFCFEF05FCBFEAF892180F699092',
+    participant: undefined
+  },
+  messageTimestamp: 1733864993,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '3',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_29c36862-4290-43af-a94f-1f993c71b1bc',
+  keyword: 'key_0125cf56-8a24-412a-a7f7-0a04d516963b',
+  answer: '*Limpieza de ciclovías*\n' +
+    'j. Desmonte\n' +
+    'k. Basura\n' +
+    'l. Agua en ciclovía\n' +
+    'm. Maleza',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '16467bde43d645784d153bd3a8d8ca45'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: 'D2CB8F63896C4D36C5509AD1F7C0ACE6',
+    participant: undefined
+  },
+  messageTimestamp: 1733864996,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'J',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'J',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ac977e7d-65a6-4ac3-99e5-3cdebdc04590',
+  keyword: 'key_738ad003-ae17-497e-8e74-68fafdc72242',
+  answer: '¿En qué tramo / cuadra de la ciclovía se localiza?\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'cea91ddf33f0f175a0728b625c1e2040'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '0F479924BB112ABD7A768279567A0DB9',
+    participant: undefined
+  },
+  messageTimestamp: 1733865000,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'A',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'A',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f063327-508f-445f-8bb7-191db586a20d',
+  keyword: 'key_7beb3767-01c5-4a77-a6ce-9bd05c630c2a',
+  answer: 'Ayúdanos a mejorar las ciclovías, adjunta UNA evidencia fotográfica',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '78e2f4a2ac55ca1770d3d30fc8c3f03c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: 'D1D62C4C445CAF47DE7A686CEE8323C7',
+    participant: undefined
+  },
+  messageTimestamp: 1733865030,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/18982739_976862790948144_7895239075803914365_n.enc?ccb=11-4&oh=01_Q5AaIPdFke1JSAVoFAHg05EHOFUNhHUlXrc8dAyqDW4aVt3p&oe=67801BEC&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'Foto',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 900,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/18982739_976862790948144_7895239075803914365_n.enc?ccb=11-4&oh=01_Q5AaIPdFke1JSAVoFAHg05EHOFUNhHUlXrc8dAyqDW4aVt3p&oe=67801BEC&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__146f2106-1a30-426a-9eb6-1a5266130721',
+  from: '51937396426'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '309994E13A0489479CEF333BC8ACF971',
+    participant: undefined
+  },
+  messageTimestamp: 1733865076,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/11977221_1255414572342610_446134200922414735_n.enc?ccb=11-4&oh=01_Q5AaINywDu-5XxTW__fbt88Eay4TSf89Vw8i2fLnisPSx2nm&oe=678016A8&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 900,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/11977221_1255414572342610_446134200922414735_n.enc?ccb=11-4&oh=01_Q5AaINywDu-5XxTW__fbt88Eay4TSf89Vw8i2fLnisPSx2nm&oe=678016A8&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__5eb2a533-586f-4566-91b0-b6edc02d1bb4',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bb05a7d3-8c49-4d01-a565-27443412afce',
+  keyword: 'key_b69ed4d0-91fe-4c8f-b95a-571216ad013b',
+  answer: '¡Gracias por avisarnos!\n' +
+    'Estamos anotando todo lo que nos indicas, pero también queremos saber de ti para trabajar en conjunto.\n' +
+    'Te invitamos a llenar el siguiente formulario.\n' +
+    '*¿Perteneces a alguna organización ciclista?*\n' +
+    '*Sí*  / *No*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ebd0d6de278cb56fd993fe155a252630'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51937396426@s.whatsapp.net',
+    fromMe: false,
+    id: '25A35E2ECAEF825EC78AC71FCA7C0213',
+    participant: undefined
+  },
+  messageTimestamp: 1733865083,
+  pushName: '_Yeik_',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '51937396426'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a83da3c0-2fc6-4c35-8d68-a7f48cae3a33',
+  keyword: 'key_a4e493f8-33fc-48f0-a86d-c916d62a0d42',
+  answer: 'Link de formulario independiente\n' +
+    '#GuardiánDeLaVía.\n' +
+    '¡Juntos recuperaremos las ciclovías de Lima!\n' +
+    'Si tienes otra problemática, ¡Vuelve a decirnos *hola*!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f4412ccaa1bbb78ce2326b5d134c6c14'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977381662@s.whatsapp.net',
+    fromMe: false,
+    id: '3A75C6F70E112195C380',
+    participant: undefined
+  },
+  messageTimestamp: 1733865155,
+  pushName: 'Dunia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '51977381662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c78f2843-eca0-42db-b125-707894b2a4b0',
+  keyword: 'key_9651a635-b12f-4416-8e7c-272212b25c75',
+  answer: 'Hola, gracias por escribir a *Alerta Ciclovía*\n' +
+    '¿En qué distrito se encuentra la problemática?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79143a21f3db093505cfdda53092cb7f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977381662@s.whatsapp.net',
+    fromMe: false,
+    id: '3A4EED7BDEF2F14555C1',
+    participant: undefined
+  },
+  messageTimestamp: 1733865168,
+  pushName: 'Dunia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Lima',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Lima',
+  from: '51977381662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_42ad20fe-2a6d-49a5-8646-0180ccb58387',
+  keyword: 'key_a3695c13-d6ba-4a61-a3b7-43e01fa83e7f',
+  answer: 'Escribe la ubicación o nombre de la ciclovía',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5ae32e7272f83249b55dcede837bee37'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977381662@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3325377345ABC9BE7C',
+    participant: undefined
+  },
+  messageTimestamp: 1733865179,
+  pushName: 'Dunia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Av. Argentina.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Av. Argentina.',
+  from: '51977381662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bab10448-22ce-4989-bb8b-a6ba2ade99d9',
+  keyword: 'key_a0efe672-9771-4fff-8e42-13e261612ab8',
+  answer: '*Escribe el número relacionado a la problemática:*\n' +
+    '1. Mantenimiento de ciclovía\n' +
+    '2. Ausencia de fiscalización\n' +
+    '3. Limpieza de ciclovía\n' +
+    '4. Implementación de nuevas ciclovías\n' +
+    '5. Ausencia de actividades',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '17bb5d3093784efbb493d922de54387c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977381662@s.whatsapp.net',
+    fromMe: false,
+    id: '3A656E6D5FAD35DB7B24',
+    participant: undefined
+  },
+  messageTimestamp: 1733865188,
+  pushName: 'Dunia',
+  broadcast: false,
+  message: Message {
+    conversation: '1.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '1.',
+  from: '51977381662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_88308310-d819-408a-9028-dc691a1b7a24',
+  keyword: 'key_504a8cf3-ec52-4943-a7d2-4d4fca886737',
+  answer: '*Mantenimiento de ciclovías*\n' +
+    'a. Ausencia de elementos de segregación\n' +
+    'b. Tipo de daños\n' +
+    'c. Falta de señalización\n' +
+    'd. Falta de iluminacíon',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '384a3b77f5e2ec3f5b4d47efbea79cfc'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977381662@s.whatsapp.net',
+    fromMe: false,
+    id: '3A24961E783945D23C5F',
+    participant: undefined
+  },
+  messageTimestamp: 1733865229,
+  pushName: 'Dunia',
+  broadcast: false,
+  message: Message {
+    conversation: 'C.',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'C.',
+  from: '51977381662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0422ee73-d83f-444d-91a9-3059ad9379be',
+  keyword: 'key_255555b0-766e-41b9-8e47-a5c083c317ab',
+  answer: '*Falta de señalización*\nc1. Horizontal\nc2. Vertical\nc3. Crucero ciclista',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ea473d5cc5fed6b385bd3219d605a26d'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977381662@s.whatsapp.net',
+    fromMe: false,
+    id: '3AB29C99858EA6838E4F',
+    participant: undefined
+  },
+  messageTimestamp: 1733865241,
+  pushName: 'Dunia',
+  broadcast: false,
+  message: Message {
+    conversation: 'C1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'C1',
+  from: '51977381662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3e315c2c-7228-479a-8aa0-37cb84d00ad9',
+  keyword: 'key_c8a1ce31-b487-44c2-b38f-fa6c562ddc9a',
+  answer: '¿En qué tramo / cuadra de la ciclovía se localiza?\n',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f012ee5c3ce2883059be487c26a6b395'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977381662@s.whatsapp.net',
+    fromMe: false,
+    id: '3A583083F3C9BA5FB5E4',
+    participant: undefined
+  },
+  messageTimestamp: 1733865248,
+  pushName: 'Dunia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuadra 15',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Cuadra 15',
+  from: '51977381662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f063327-508f-445f-8bb7-191db586a20d',
+  keyword: 'key_7beb3767-01c5-4a77-a6ce-9bd05c630c2a',
+  answer: 'Ayúdanos a mejorar las ciclovías, adjunta UNA evidencia fotográfica',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '78e2f4a2ac55ca1770d3d30fc8c3f03c'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977381662@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC569F18207BB78C352',
+    participant: undefined
+  },
+  messageTimestamp: 1733865257,
+  pushName: 'Dunia',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/11687509_1247648423155227_6720615414866854970_n.enc?ccb=11-4&oh=01_Q5AaIMU1eQBqHJD6JCMk7BPj03rNVDjU6Ti8BSpIjdAq-YG7&oe=6780255C&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 900,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/11687509_1247648423155227_6720615414866854970_n.enc?ccb=11-4&oh=01_Q5AaIMU1eQBqHJD6JCMk7BPj03rNVDjU6Ti8BSpIjdAq-YG7&oe=6780255C&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 10683,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__a0e8f7f8-9d6b-4cef-8fe1-f4f8daba5dee',
+  from: '51977381662'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977381662@s.whatsapp.net',
+    fromMe: false,
+    id: '3A6649719015E366D9EE',
+    participant: undefined
+  },
+  messageTimestamp: 1733865273,
+  pushName: 'Dunia',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f2/m239/AQMn4hzUw_DU1PCb28JAkd-ifiqKX7vXyCfSvKmfIoDPbVyFvEvA5c03bvLAFdeSJKcSJQG0y_TM5Tx8aSUV6V2jC8jKKOEt9HP9dlusUA?ccb=9-4&oh=01_Q5AaIE17Af7asPPxBqEKP8_6bC9fLsSP4s9S4IpaGIMt8hL9&oe=67802BB3&_nc_sid=e6ed6c&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 932,
+      width: 700,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f2/m239/AQMn4hzUw_DU1PCb28JAkd-ifiqKX7vXyCfSvKmfIoDPbVyFvEvA5c03bvLAFdeSJKcSJQG0y_TM5Tx8aSUV6V2jC8jKKOEt9HP9dlusUA?ccb=9-4&oh=01_Q5AaIE17Af7asPPxBqEKP8_6bC9fLsSP4s9S4IpaGIMt8hL9&oe=67802BB3&_nc_sid=e6ed6c',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 7862,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__981640ab-f37b-4995-aa5f-fb0b9df197af',
+  from: '51977381662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_bb05a7d3-8c49-4d01-a565-27443412afce',
+  keyword: 'key_b69ed4d0-91fe-4c8f-b95a-571216ad013b',
+  answer: '¡Gracias por avisarnos!\n' +
+    'Estamos anotando todo lo que nos indicas, pero también queremos saber de ti para trabajar en conjunto.\n' +
+    'Te invitamos a llenar el siguiente formulario.\n' +
+    '*¿Perteneces a alguna organización ciclista?*\n' +
+    '*Sí*  / *No*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'ebd0d6de278cb56fd993fe155a252630'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977381662@s.whatsapp.net',
+    fromMe: false,
+    id: '3A20AA1D67BDD55CFA4E',
+    participant: undefined
+  },
+  messageTimestamp: 1733865298,
+  pushName: 'Dunia',
+  broadcast: false,
+  message: Message {
+    conversation: 'No',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'No',
+  from: '51977381662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a83da3c0-2fc6-4c35-8d68-a7f48cae3a33',
+  keyword: 'key_a4e493f8-33fc-48f0-a86d-c916d62a0d42',
+  answer: 'Link de formulario independiente\n' +
+    '#GuardiánDeLaVía.\n' +
+    '¡Juntos recuperaremos las ciclovías de Lima!\n' +
+    'Si tienes otra problemática, ¡Vuelve a decirnos *hola*!',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f4412ccaa1bbb78ce2326b5d134c6c14'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977381662@s.whatsapp.net',
+    fromMe: false,
+    id: '3A58A32017F14AF32A25',
+    participant: undefined
+  },
+  messageTimestamp: 1733865312,
+  pushName: 'Dunia',
+  broadcast: false,
+  message: Message {
+    conversation: 'Okiiiis',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Okiiiis',
+  from: '51977381662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_c78f2843-eca0-42db-b125-707894b2a4b0',
+  keyword: 'key_9651a635-b12f-4416-8e7c-272212b25c75',
+  answer: 'Hola, gracias por escribir a *Alerta Ciclovía*\n' +
+    '¿En qué distrito se encuentra la problemática?',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '79143a21f3db093505cfdda53092cb7f'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51977381662@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE7FADFCFAAA75C5685',
+    participant: undefined
+  },
+  messageTimestamp: 1733865316,
+  pushName: 'Dunia',
+  broadcast: false,
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/29387518_1134605718234831_527831972907084207_n.enc?ccb=11-4&oh=01_Q5AaIG5LsR1XHOP3Rj1HcLZtnjlPRwcy6Jy8SUA4szISsNga&oe=67801D45&_nc_sid=5e03e0&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      directPath: '/v/t62.15575-24/29387518_1134605718234831_527831972907084207_n.enc?ccb=11-4&oh=01_Q5AaIG5LsR1XHOP3Rj1HcLZtnjlPRwcy6Jy8SUA4szISsNga&oe=67801D45&_nc_sid=5e03e0',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false,
+      stickerSentTs: [Long],
+      isAvatar: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__30f42090-e097-4b8f-9849-58f035b5750b',
+  from: '51977381662'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_42ad20fe-2a6d-49a5-8646-0180ccb58387',
+  keyword: 'key_a3695c13-d6ba-4a61-a3b7-43e01fa83e7f',
+  answer: 'Escribe la ubicación o nombre de la ciclovía',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5ae32e7272f83249b55dcede837bee37'
+}

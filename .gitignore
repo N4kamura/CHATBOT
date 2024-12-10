@@ -1,3 +1,5 @@
 *.png
 base-baileys-memory/node_modules/
 base-baileys-memory/bot_sessions/
+bot_sessions/
+node_modules/
